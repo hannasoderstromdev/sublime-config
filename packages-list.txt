@@ -1,0 +1,14 @@
+Alignment
+BracketHighlighter
+Color Highlighter
+Emmet
+jQuery
+Sass
+SassBeautify
+SideBarEnhancements
+Stylus
+SublimeLinter
+SublimeLinter-jshint
+SublimeLinter-php
+Theme-Phoenix
+WordCount
